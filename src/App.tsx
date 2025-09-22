@@ -1,9 +1,13 @@
+import './globals.css'
 
 function App() {
 
   return (
-    <div>
-      
+    <div className=''>
+      <p className='m-2 text-xl'>ASD</p>
+      <div className='font-bold text-2xl'>
+        dsa
+      </div>
     </div>
   )
 }
